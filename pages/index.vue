@@ -1,5 +1,8 @@
 <template>
-  <h1>Hello</h1>
+  <div>
+    <h1>Hello this is is irumva anselme 21</h1>
+    <div class="hello text-blue-600">hello</div>
+  </div>
 </template>
 
 <script lang="ts">
